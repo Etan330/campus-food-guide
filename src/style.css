@@ -4,3 +4,42 @@
 @media(max-width:1150px){.main-area{padding:0 32px}.sidebar{width:220px;padding-left:18px;padding-right:18px}.main-area{margin-left:220px}.dish-grid,.explore-grid{grid-template-columns:repeat(3,minmax(0,1fr))}.dish-card:nth-child(4){display:none}.tip-grid{grid-template-columns:1fr 1fr}.review-quote{display:none}.filters{gap:12px}.filter-group{gap:6px}}
 @media(max-width:760px){.sidebar{display:none}.main-area{margin:0;padding:0 17px 82px}.topbar{height:58px}.mobile-brand{display:flex;font-size:17px;gap:7px}.mobile-brand .brand-mark{width:27px;height:27px;border-radius:8px}.mobile-brand .brand-dot{margin-left:-7px}.breadcrumb{display:none}.top-actions{gap:9px}.search-box{width:min(43vw,220px);height:31px;padding:0 8px}.search-box input{font-size:9px}.search-box kbd{display:none}.avatar{width:28px;height:28px}.welcome-row{padding:24px 0 17px;align-items:flex-start}.welcome-row h1{font-size:23px;margin-top:8px}.welcome-sub{font-size:10px}.weather-chip{padding:7px 8px;gap:6px;margin-top:15px}.weather-chip>svg{width:14px}.weather-chip>span{font-size:11px}.weather-chip small{font-size:7px}.hero-card{height:310px;border-radius:12px}.hero-card>img{object-position:60% center}.hero-shade{background:linear-gradient(90deg,#201a15c7 0%,#211c1591 52%,#211c151c 100%),linear-gradient(0deg,#20191245,transparent 40%)}.hero-copy{left:19px;top:26px}.hero-copy h2{font-size:23px;line-height:1.55;margin:17px 0 5px}.hero-copy>p{font-size:9px}.hero-meta{font-size:9px;gap:11px}.hero-button{margin-top:18px;padding:9px 11px;font-size:9px}.hero-note{right:10px;bottom:12px;font-size:8px}.hero-count{right:12px;top:13px}.quick-row{grid-template-columns:1fr;gap:8px;margin:12px 0 31px}.quick-decision{height:64px}.quick-hint{height:55px}.section-heading{margin-bottom:13px}.section-heading h2{font-size:16px}.section-eyebrow{font-size:7px}.dish-grid,.explore-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:9px}.dish-card:nth-child(4){display:block}.dish-photo{height:125px}.dish-info{padding:9px 9px 10px}.dish-info h3{font-size:11px}.dish-info>p{font-size:8px}.dish-place{font-size:7px}.dish-bottom{margin-top:9px}.dish-bottom strong{font-size:12px}.dish-bottom>span{font-size:7px}.dish-tags{margin-top:6px}.dish-tags span{font-size:7px;padding:3px 5px}.dish-favorite{width:25px;height:25px;top:7px;right:7px}.dish-favorite svg{width:14px}.discovery-band{padding:18px;min-height:192px;gap:10px;margin:4px 0 30px}.discovery-copy{min-width:0;flex:1}.discovery-copy h2{font-size:19px}.discovery-copy p{font-size:8px;line-height:1.5}.discovery-cards{flex-direction:column;gap:7px;max-width:43%}.mini-discovery{width:100%}.mini-discovery img{height:59px}.mini-discovery div{padding:6px;gap:3px}.mini-discovery strong{font-size:9px}.mini-discovery small{font-size:6px}.mini-discovery span{font-size:8px}.band-stamp{right:3px;top:5px;width:35px;height:35px;font-size:6px}.tip-grid{gap:8px}.tip-card{padding:11px;min-height:145px}.tip-card>strong{font-size:11px}.tip-card p{font-size:7px;line-height:1.5}.tip-top{font-size:8px}.footer{min-height:58px;gap:7px;font-size:7px}.footer-brand{font-size:12px}.footer-brand .brand-mark{width:19px;height:19px}.footer-right{display:none}.mobile-nav{display:flex;position:fixed;z-index:10;bottom:0;left:0;right:0;height:62px;background:#fbfaf6f2;border-top:1px solid #eae7df;backdrop-filter:blur(12px);justify-content:space-around;padding-bottom:env(safe-area-inset-bottom)}.mobile-nav button{border:0;background:none;color:#9b978e;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:3px;min-width:62px}.mobile-nav button span{font-size:8px}.mobile-nav button.active{color:#df6249}.explore-page,.decide-page{padding-top:25px}.explore-title h1{font-size:23px}.explore-title p,.decide-intro p{font-size:9px}.filter-toggle{display:flex;align-items:center;gap:6px;border:1px solid #e8e4db;background:#fffefa;border-radius:6px;padding:8px;font-size:8px;color:#77736b}.filters{display:none;flex-wrap:wrap;align-items:flex-start;margin-top:13px;padding:13px 0 11px;gap:12px}.filters.open{display:flex}.filter-group{width:100%;align-items:flex-start;flex-direction:column}.filter-group label{font-size:8px}.filter-chips{flex-wrap:wrap}.filter-chips button{padding:6px 8px;font-size:8px}.sort-select{margin-left:0}.sort-select select{font-size:8px;padding:7px 27px 7px 8px}.sort-select svg{top:7px}.result-line{font-size:8px}.dish-card{border-radius:9px}.decide-intro{margin-bottom:20px}.decide-intro h1{font-size:23px}.decide-layout{grid-template-columns:1fr;gap:12px;margin-bottom:28px}.preference-card{padding:17px}.pref-section{margin-bottom:14px}.pref-section label{font-size:9px}.option-row button{padding:7px 10px;font-size:8px}.hall-options button{font-size:7px}.decide-empty{min-height:260px}.empty-plate{width:84px;height:84px}.empty-plate svg{width:33px}.empty-plate:after{inset:8px}.recommend-photo{height:168px}.recommend-info{padding:13px}.recommend-info h2{font-size:16px}.decision-note{padding:9px}.detail-modal{width:100%;height:100%}.detail-image{height:235px}.detail-body{padding:17px}.detail-body h2{font-size:21px}.review-modal{padding:25px 19px 19px}.review-modal h2{font-size:19px}.review-bottom>span{max-width:180px;line-height:1.5}.toast{bottom:75px;max-width:calc(100vw - 32px);white-space:nowrap}}
 @media(max-width:380px){.main-area{padding-left:12px;padding-right:12px}.welcome-row h1{font-size:20px}.weather-chip small{max-width:85px}.dish-photo{height:110px}.hero-card{height:280px}.hero-copy h2{font-size:20px}.hero-kicker{font-size:8px}.discovery-band{padding:14px}.discovery-copy h2{font-size:16px}.mini-discovery img{height:52px}.search-box{width:40vw}}
+
+/* Iteration: accessible controls, trustworthy data states, and smaller-screen fit */
+.brand,.mobile-brand{border:0;background:transparent;padding:0;color:inherit;text-align:left}
+.dish-name-button{display:block;width:100%;border:0;background:transparent;padding:0;text-align:left;font:600 13px var(--serif);margin:6px 0 4px;cursor:pointer}
+.dish-name-button:hover{color:var(--red)}
+.quick-hint-button{border:0;text-align:left;cursor:pointer}
+.quick-hint-button:hover{background:#e8e2d3}
+.hint-arrow{display:flex;align-items:center}
+.caution-home{text-align:left;border:1px solid #edeae2;width:100%;cursor:pointer;color:inherit}
+.caution-home>strong{font:600 13px/1.6 var(--serif)}
+.tip-action{display:flex;align-items:center;gap:5px;padding-top:10px;color:#b07556;font-size:9px}
+.inline-select{border:1px solid #e9e6dd;background:#fffefa;border-radius:6px;padding:8px 10px;font-size:9px;color:#76736a;max-width:210px}
+.recommend-photo{display:block;width:100%;padding:0;border:0;background:#eee9df;text-align:left}
+.recommend-photo img{display:block}
+.try-again{border:0;border-radius:5px;background:#e9654c;color:white;padding:8px 10px;font-size:9px;margin-top:10px}
+.try-again.secondary{margin:5px 0 0 5px;background:#eee9dd;color:#766e5e}
+.detail-risk{display:flex;gap:9px;background:#f8eee7;border:1px solid #f1ddd1;border-radius:8px;margin:10px 0 16px;padding:11px;color:#ad684e}
+.detail-risk>svg,.detail-risk>span{flex:none;margin-top:1px}
+.detail-risk strong{font:600 10px var(--serif);color:#654f43}
+.detail-risk p{font-size:9px;line-height:1.7;color:#796c60;margin:4px 0 0}
+.detail-risk small{display:block;font-size:8px;color:#a18c7b;margin-top:4px}
+.detail-modal:focus,.review-modal:focus{outline:none}
+.dish-card:nth-child(4){display:block!important}
+.review-modal{max-height:min(90dvh,720px);overflow-y:auto;overscroll-behavior:contain}
+.mobile-nav{height:calc(62px + env(safe-area-inset-bottom));padding-bottom:env(safe-area-inset-bottom)}
+@media(max-width:760px){
+ .dish-info h3,.dish-name-button{font-size:12px}
+ .dish-place,.dish-bottom>span,.dish-tags span,.dish-badge,.photo-count{font-size:9px}
+ .dish-info>p,.tip-card p,.discovery-copy p{font-size:10px}
+ .section-eyebrow,.eyebrow,.demo-note,.detail-kicker,.detail-stats small{font-size:9px}
+ .recommend-info>p,.detail-reason p,.detail-risk p,.review-content p{font-size:10px}
+ .review-name{font-size:10px}
+ .review-tags span{font-size:8px}
+ .filters.open{max-height:55vh;overflow-y:auto}
+ .filter-group:last-of-type{width:auto;flex-direction:row;align-items:center}
+ .inline-select{max-width:180px;font-size:9px}
+ .review-modal{padding-bottom:max(19px,env(safe-area-inset-bottom))}
+ .detail-modal{padding-bottom:env(safe-area-inset-bottom)}
+}
