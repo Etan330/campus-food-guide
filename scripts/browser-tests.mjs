@@ -18,7 +18,7 @@ try {
   const errors = []
   page.on('pageerror', error => errors.push(error.message))
   await page.goto(baseURL)
-  assert.match(await page.locator('main').innerText(), /从口碑稳的开始/)
+  assert.match(await page.locator('main').innerText(), /大家常点的好味道/)
   await page.getByRole('button', { name: '逛一逛' }).click()
   const imageFailures = await page.locator('img').evaluateAll(async images => { for (const image of images) image.loading = 'eager'; await Promise.all(images.map(image => image.decode().catch(() => null))); return images.filter(image => !image.naturalWidth).map(image => image.src) })
   assert.deepEqual(imageFailures, [], `broken visible catalog images: ${imageFailures.join(', ')}`)
